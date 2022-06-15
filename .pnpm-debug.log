@@ -1,0 +1,12 @@
+{
+  "0 error pnpm": {
+    "fileName": "/Users/reslear/Documents/dev/os/web3-fullstack/packages/backend/package.json",
+    "code": "ERR_PNPM_JSON_PARSE",
+    "err": {
+      "name": "pnpm",
+      "message": "Unexpected end of JSON input while parsing empty string in /Users/reslear/Documents/dev/os/web3-fullstack/packages/backend/package.json",
+      "code": "ERR_PNPM_JSON_PARSE",
+      "stack": "pnpm: Unexpected end of JSON input while parsing empty string in /Users/reslear/Documents/dev/os/web3-fullstack/packages/backend/package.json\n    at parseJson (/Users/reslear/Library/pnpm/global/5/.pnpm/pnpm@7.2.1/node_modules/pnpm/dist/pnpm.cjs:3133:27)\n    at readJsonFile (/Users/reslear/Library/pnpm/global/5/.pnpm/pnpm@7.2.1/node_modules/pnpm/dist/pnpm.cjs:20803:42)\n    at async readExactProjectManifest (/Users/reslear/Library/pnpm/global/5/.pnpm/pnpm@7.2.1/node_modules/pnpm/dist/pnpm.cjs:20936:34)\n    at async /Users/reslear/Library/pnpm/global/5/.pnpm/pnpm@7.2.1/node_modules/pnpm/dist/pnpm.cjs:49358:16"
+    }
+  }
+}
